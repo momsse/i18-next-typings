@@ -1,0 +1,18 @@
+{
+  "name": "i18-next-typings",
+  "version": "1.0.0",
+  "description": "i18next typings example",
+  "main": "index.ts",
+  "author": "momsse",
+  "license": "MIT",
+  "scripts": {
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.1",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "i18next": "^22.4.6"
+  }
+}
